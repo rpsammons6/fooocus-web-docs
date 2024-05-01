@@ -10,11 +10,24 @@ export type SidebarItem = {
 
 export const SIDEBAR: Array<SidebarItem> = [
   {
-    title: 'Getting Started',
+    title: 'Getting Started with Fooocus',
     children: [
       {
         title: 'Overview',
         slug: '/docs',
+      },
+      {
+        title: 'Efficient Prompting',
+        slug: '/docs/efficient-prompting',
+      },
+    ],
+  },
+  {
+    title: 'Advanced Features',
+    children: [
+      {
+        title: 'List of Premium Features',
+        slug: '/new-section/new-page',
       },
     ],
   },

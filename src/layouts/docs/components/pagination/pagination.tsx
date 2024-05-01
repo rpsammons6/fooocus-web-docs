@@ -115,8 +115,8 @@ function Pagination() {
               w-full
 
               text-left
-            text-slate-600
-            dark:text-slate-100
+            text-gray-600
+            dark:text-gray-100
 
             border
             border-gray-200
@@ -149,7 +149,7 @@ function Pagination() {
                   block
 
                   text-xs
-                  text-slate-500
+                  text-gray-500
                 "
               >
                 next
@@ -159,8 +159,8 @@ function Pagination() {
                   block
 
                   text-base
-                  text-slate-600
-                  dark:text-slate-100
+                  text-gray-600
+                  dark:text-gray-100
                   lg:text-lg
 
                   font-semibold

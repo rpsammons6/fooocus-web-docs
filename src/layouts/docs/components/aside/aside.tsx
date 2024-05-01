@@ -101,22 +101,22 @@ function Aside() {
                             text-sm
                             text-slate-500
                             dark:text-slate-400
-                            dark:hover:text-blue-600
+                            dark:hover:text-orange-400
 
                             rounded
 
                             outline-none
                             focus-visible:ring-2
-                            focus-visible:ring-blue-600
-                            dark:focus-visible:ring-blue-600/50
+                            focus-visible:ring-orange-400
+                            dark:focus-visible:ring-blue-400/50
 
-                            hover:text-blue-600
+                            hover:text-orange-400
 
-                            aria-current-page:bg-blue-50
-                            aria-current-page:text-blue-800
+                            aria-current-page:bg-orange-400/10
+                            aria-current-page:text-orange-900
 
-                            dark:aria-current-page:text-blue-500
-                            dark:aria-current-page:bg-blue-600/10
+                            dark:aria-current-page:text-gray-100
+                            dark:aria-current-page:bg-orange-400/10
                           "
                         >
                           {title}

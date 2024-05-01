@@ -99,6 +99,7 @@ function Fence(props: FenceProps) {
         )}
       </Highlight>
 
+      {/* Copy button */}
       <button
         className="
           absolute

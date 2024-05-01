@@ -68,8 +68,8 @@ export function SelectTheme() {
             duration-150
 
             focus-visible:ring-1
-            focus-visible:ring-blue-500
-            focus-visible:border-blue-500
+            focus-visible:ring-orange-600
+            focus-visible:border-orange-600
             focus-visible:outline-none
             dark:border-gray-800
             dark:focus-visible:border-blue-500
@@ -121,7 +121,7 @@ export function SelectTheme() {
                   transition-colors
                   ${
                     active
-                      ? 'text-blue-700 dark:text-blue-600 dark:hover:text-blye-300 bg-blue-50 dark:bg-blue-800/10'
+                      ? 'text-gray-50 dark:text-gray-50 dark:hover:text-gray-50 bg-orange-400 dark:bg-orange-400'
                       : 'text-slate-500 hover:text-slate-700 dark:text-slate-400 bg-white hover:bg-gray-50 dark:bg-transparent'
                   }
                 `}

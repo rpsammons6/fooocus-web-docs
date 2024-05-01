@@ -89,9 +89,7 @@ function DocsLayout(props: DocsLayoutProps) {
                 : router.pathname
             }.md`}
           >
-            <span className="flex items-center mb-6 cursor-pointer text-sm text-slate-600 dark:text-slate-400 hover:underline hover:text-slate-900">
-              <PencilSquareIcon className="w-4 h-4 mr-2" />
-              Edit this page on GitHub
+            <span className="flex items-center mb-6 cursor-pointer text-sm text-gray-700 dark:text-gray-400 hover:underline hover:text-gray-900">
             </span>
           </Link>
           <Pagination />
