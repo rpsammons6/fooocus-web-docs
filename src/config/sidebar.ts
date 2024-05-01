@@ -27,7 +27,7 @@ export const SIDEBAR: Array<SidebarItem> = [
     children: [
       {
         title: 'List of Premium Features',
-        slug: '/new-section/new-page',
+        slug: '/docs/premium-features',
       },
     ],
   },
