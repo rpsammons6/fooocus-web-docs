@@ -1,6 +1,6 @@
 ---
 title: Introduction
-description: Basic information about Fooocus and its functionalities. Further documentation will be provided as the software expands
+description: Basic information about Fooocus and its functionalities.
 ---
 
 ## Overview

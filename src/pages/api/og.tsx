@@ -21,10 +21,10 @@ export default function handler(req: NextRequest) {
 
     return new ImageResponse(
       (
-        <div tw="relative w-full h-full flex flex-col justify-center bg-white">
+        <div tw="relative w-full h-full flex flex-col justify-center bg-gradient-to-r from-orange-300 to-orange-800">
           <div tw="flex flex-col px-24">
-            <h1 tw="text-4xl text-slate-900 mb-10">Galaxy template</h1>
-            <span tw="bg-orange-100 px-2 py-1 rounded text-sm text-blue-600">
+            <h1 tw="text-4xl text-slate-900 mb-10">Fooocus Documentation</h1>
+            <span tw="bg-orange-100 px-2 py-1 rounded text-sm text-gray-900">
               {title}
             </span>
 
