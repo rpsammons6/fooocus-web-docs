@@ -13,11 +13,11 @@ WORKDIR /app
 # Set the "app" directory as the working directory
 COPY . ./
 
-ENV NEXT_PUBLIC_APP_URL=http://f4services.live/docs
+ENV NEXT_PUBLIC_APP_URL=http://docs.f4services.live
 
 RUN npm install
 RUN npm run build
 
-# Expose port 80
+# Expose port 8080
 EXPOSE 8080
 CMD ["npm", "run","start"]
