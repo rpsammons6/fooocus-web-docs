@@ -17,6 +17,10 @@ export const SIDEBAR: Array<SidebarItem> = [
         slug: '/docs',
       },
       {
+        title: 'Features',
+        slug: '/docs/features',
+      },
+      {
         title: 'Efficient Prompting',
         slug: '/docs/efficient-prompting',
       },
