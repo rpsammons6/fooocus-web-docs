@@ -11,7 +11,7 @@ source code into Discord itself. Here is a general list of features we offer wit
  - Image-to-Image Generation
  - [GPT-2 Assisted Prompting](/docs/efficient-prompting)
  - Performance Models
- - Image Manipulation
+ - [Image Manipulation](/docs/image-manipulation)
  - Image Inpainting
  - Image Outpainting
  - Seed Regeneration

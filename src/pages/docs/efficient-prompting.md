@@ -19,7 +19,7 @@ Foocus has a built-in **GPT-2 Engine** that can expand prompts based on context 
 Image Generator is capable of. This means that most technicalities are handled by Fooocus itself and not the end user, streamlining and
 simplifying the process of generating images.
 
-For example, if you want to generate an image of a cat, you can simply type:
+For example, if you want to generate an image of a dragon, you can simply type:
 ```
 A dragon, snow, moon
 ```
