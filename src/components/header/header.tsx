@@ -51,11 +51,8 @@ function Header() {
       >
         <div className="flex items-center">
           <Burger/>
-          <Link href="http://f4services.live/home" className="logoImage" aria-label="Cruip">
-            <img src="/FooocusLogo_BaseTrans.png" className={`${styles.logoImage} w-20 h-20`} alt="FooocusLogo"/>
-          </Link>
-          <Link href="http://.docs.f4services.live/home" className="logoImage" aria-label="Cruip">
-            <img src="/F4-Documentation-Logo.png" className={`${styles.logoImage} w-48 h-12`} alt="FooocusLogo"/>
+          <Link href="https://thelazyartistai.com" className="logoImage" aria-label="Cruip">
+            <img src="/TLA_LOGO.png" className={`${styles.logoImage} w-30 h-20`} alt="TheLazyArtistAI_Logo"/>
           </Link>
         </div>
 

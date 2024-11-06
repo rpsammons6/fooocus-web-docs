@@ -1,106 +1,40 @@
 ---
 title: Introduction
-description: Basic information about Fooocus and its functionalities.
+description: Basic information about The Lazy Artist and its functionalities.
 ---
 
 ## Overview
 
-Fooocus is an image generating software and a rethinking of Stable Diffusion and Midjourney’s designs:
+**The Lazy Artist** is an image generating software and a rethinking of Stable Diffusion and Midjourney’s designs:
 
-- Learned from Stable Diffusion and optimized for Discord
+- Learned from Stable Diffusion and Flux and optimized for Discord
 
 - Learned from Midjourney, the manual tweaking is not needed, and users only need to focus on the prompts and images.
 
-Fooocus has included and automated lots of inner optimizations and quality improvements. Users can forget all those difficult technical parameters, and just enjoy the interaction between human and computer to "explore new mediums of thought and expanding the imaginative powers of the human species"
+The Lazy Artist has included and automated lots of inner optimizations and quality improvements. 
+Users can forget all those difficult technical parameters, and just enjoy the creating images they love,
+and *Retaking Their Imagination*
 
-Fooocus supports SDXL models on [Civitai](https://civitai.com)
+### Retaking your Imagination.
 
-Let us know what models you want us to add in the Suggestions channel on the [Discord](https://discord.com/invite/uHH4y2eEUQ)
 
----
+While there have been many Discord AI Image Generators in the past, and will be many after us, we have something
+the others don't have - Modularity, cutting-edge technology, and - most importantly - a community of passionate and
+creative people.
 
-## Why Fooocus?
-
-Fooocus stands as a pioneering AI image generator that reimagines the functionalities of Stable Diffusion and Midjourney's designs. Tailored and optimized specifically for Discord, Fooocus brings forth a seamless experience where users can effortlessly interact with AI to craft captivating visuals. Here's why you should opt for Fooocus:
-
-* **Streamlined User Experience**
-
-Gone are the days of grappling with complex technical parameters and manual tweaking. With Fooocus, users are liberated from the intricacies of prompt engineering and parameter tuning. Our platform automates inner optimizations and quality enhancements, allowing users to solely focus on unleashing their creativity through prompts and images.
-
-* **Enhanced Efficiency**
-
-Fooocus boasts remarkable efficiency, delivering high-quality text-to-image results in a fraction of the time compared to its counterparts. Powered by an offline GPT-2 based prompt processing engine and cutting-edge sampling improvements, Fooocus ensures stunning outcomes regardless of prompt length or complexity.
-
-* **Diverse Model Support**
-
-Fooocus offers an extensive range of models, including SDXL models available on Civitai. Additionally, our platform is committed to continuous innovation, with upcoming V-series and U-series models poised to elevate your creative endeavors further.
-
-* **Advanced Image Manipulation**
-
-Experience unparalleled control over image manipulation with Fooocus's array of features:
- - Inpainting: Utilize Fooocus's proprietary inpaint algorithm and models to seamlessly remove or add elements to images.
- - Pan: Effortlessly adjust image positioning with options to move up, down, left, or right.
- - Style and Stylize: Coming soon, Fooocus will introduce advanced style and stylization options for further customization.
- - Image Prompt: Enhance prompt understanding and result quality with Fooocus's innovative image prompt algorithm.
-
-*  **Cutting-edge Technologies**
-
-Fooocus leverages state-of-the-art algorithms and technologies to deliver superior results:
- - Prompt Weights: Employ A1111's reweighting algorithm for enhanced results, surpassing those achieved with conventional methods.
- - Embedding: Coming soon, users can harness embedding capabilities for enriched creative expression.
- - Negative Prompts and Aspect Ratios: Advanced functionalities such as negative prompts and aspect ratio adjustments empower users with greater flexibility and control.
- - InsightFace and FaceSwap: Coming soon, unlock new possibilities with InsightFace integration for advanced face manipulation.
-
-*  **Community-driven Development**
-
-At Fooocus, we prioritize community feedback and engagement. Our Suggestions channel on Discord serves as a platform for users to voice their preferences and influence future developments, ensuring that Fooocus remains at the forefront of innovation.
-
-In essence, Fooocus redefines the image generation landscape by combining cutting-edge technology with unparalleled user experience. Whether you're a seasoned creator or a novice enthusiast, Fooocus empowers you to explore new realms of creativity and expand the boundaries of imagination.
+All of us are striving for one thing, and that's to maximize the potential of human creativity. There are countless people
+who have incredible ideas they wish to share, but no means by which to share them. The Lazy Artist is the flagship way
+which people can share exactly what they envision. This is directly reflected in the way we approach our product and our
+interactions in our [Discord](https://discord.gg/XpRMvAkyTv).
 
 ---
 
-## Moving from Midjourney to Fooocus
-Using Fooocus is as easy (if not easier than) using Midjourney - but this does not mean we lack functionality.
+## How do I navigate the Documentation?
 
-**Midjourney**
-```
-   Takes  1 - 10 minutes per command
-```
+The docs are quite simple to navigate. You will find a sidebar on the left side of the page that will allow you to
+navigate to different sections of the documentation. If you are on mobile, you can click the hamburger icon in the top
+left corner of the page to access the sidebar.
 
-- High-quality text-to-image without needing much prompt engineering or parameter tuning.
-- (Unknown method)
-
-**Fooocus**
-```
-Takes between 8 seconds and 1 minute per command
-```
-
-- High-quality text-to-image without needing much prompt engineering or parameter tuning. (Fooocus has offline GPT-2 based prompt processing engine and lots of sampling improvements so that results are always beautiful, no matter your prompt is as short as “house in garden” or as long as 1000 words)
-- V1 V2 V3 V4 **(Coming soon...)**
-  - Input Image -> Upscale or Variation -> Vary (Subtle) / Vary (Strong)
-- U1 U2 U3 U4 **(Coming soon...)** 
-  - Input Image -> Upscale or Variation -> Upscale (1.5x) / Upscale (2x)
-- Inpaint / Up / Down / Left / Right (Pan)
-  - Input Image -> Inpaint or Outpaint -> Inpaint / Up / Down / Left / Right (Fooocus uses its own inpaint algorithm and inpaint models so that results are more satisfying than all other software that uses standard SDXL inpaint method/model)
-- Image Prompt  **(Coming soon...)**
-  - Input Image -> Image Prompt (Fooocus uses its own image prompt algorithm so that result quality and prompt understanding are more satisfying than all other software that uses standard SDXL methods like standard IP-Adapters or Revisions)
-
-- `--style`
-  - Advanced -> Style  **(Coming soon...)**
-- `--stylize`
-  - Advanced -> Stylize  **(Coming soon...)**
-- `--niji`
-  - Multiple models: "Anime", and "Realistic".
-- `--quality`
-  - Advanced -> Performance
-- Prompt Weights
-  - You can use " I am (happy:1.5)".
-
-Fooocus uses A1111's reweighting algorithm so that results are better than ComfyUI if users directly copy prompts from Civitai. (Because if prompts are written in ComfyUI's reweighting, users are less likely to copy prompt texts as they prefer dragging files)
-To use embedding, you can use "(embedding:file_name:1.1)"  **(Coming soon...)**
-- `--no`
-  - Advanced -> Negative Prompt
-- `--ar`
-  - Advanced -> Aspect Ratios  **(Coming soon...)**
-- InsightFace
-  - Input Image -> Image Prompt -> Advanced -> FaceSwap **(Coming soon...)**
+Key documentation, such as our TOS and Privacy Policy, can also be found in the documentation. Furthermore, information
+about what features you will get with your subscription can be found in the documentation. If there are any quetions
+you cannot find the answer to on the documentation, send us an email or join the Discord and ask us there.

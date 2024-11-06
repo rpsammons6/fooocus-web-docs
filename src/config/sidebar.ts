@@ -10,7 +10,7 @@ export type SidebarItem = {
 
 export const SIDEBAR: Array<SidebarItem> = [
   {
-    title: 'Getting Started with Fooocus',
+    title: 'Getting Started',
     children: [
       {
         title: 'Overview',
@@ -21,7 +21,7 @@ export const SIDEBAR: Array<SidebarItem> = [
         slug: '/docs/terms',
       },
       {
-        title: 'Features',
+        title: 'Features and Commands',
         slug: '/docs/features',
       },
       {
@@ -38,7 +38,7 @@ export const SIDEBAR: Array<SidebarItem> = [
     title: 'Advanced Features',
     children: [
       {
-        title: 'List of Premium Features',
+        title: 'Advanced Features Overview',
         slug: '/docs/premium-features',
       },
     ],
