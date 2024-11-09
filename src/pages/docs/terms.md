@@ -1,77 +1,53 @@
-# Email Privacy Policy
+# Terms of Service
+Effective Date: July 9, 2024
 
 ## Introduction
-
-This Email Privacy Policy outlines the measures and practices implemented by [Your Company Name] to protect the privacy and security of email communications. We are committed to safeguarding the personal information shared with us through email interactions.
-
-## Collection of Information
-
-### Types of Information Collected
-
-We may collect various types of information through email communications, including but not limited to:
-
-- Email addresses
-- Names
-- Contact information
-- Content of emails
-
-### Purpose of Collection
-
-The information collected through email communications is primarily used for the following purposes:
-
-- Responding to inquiries and requests
-- Providing requested services or information
-- Sending updates, newsletters, or promotional materials
-- Improving our products and services
-- Ensuring the security of our systems and communications
-
-## Use and Disclosure of Information
-
-### Confidentiality
-
-We treat all personal information received via email as confidential and do not disclose it to third parties unless required by law or with explicit consent from the individual.
-
-### Internal Use
-
-Personal information collected through email communications is used internally by authorized personnel only for the purposes stated in this policy.
-
-### Third-Party Service Providers
-
-We may engage third-party service providers to assist with email management and communication. These providers are contractually obligated to comply with our privacy and security standards.
-
-### Legal Obligations
-
-We may disclose personal information in response to lawful requests from government authorities, court orders, or legal processes.
-
-## Security Measures
-
-We employ various security measures to protect the confidentiality and integrity of email communications, including:
-
-- Encryption technologies to secure data in transit
-- Access controls and authentication mechanisms to restrict unauthorized access
-- Regular monitoring and auditing of email systems for suspicious activities
-- Employee training programs on email security best practices
-
-## Data Retention
-
-We retain personal information collected via email for as long as necessary to fulfill the purposes outlined in this policy or as required by law. When no longer needed, we securely dispose of or anonymize the information.
-
-## Your Rights
-
-### Access and Correction
-
-Individuals have the right to access and correct their personal information held by us. Requests for access or correction can be submitted to [Contact Email Address].
-
-### Opt-Out
-
-Recipients of marketing or promotional emails may opt out of receiving further communications by following the unsubscribe instructions provided in the emails or by contacting us directly.
-
-## Changes to this Policy
-
-We reserve the right to update or modify this Email Privacy Policy at any time. Any changes will be effective immediately upon posting the updated policy on our website.
-
-## Contact Us
-
-If you have any questions, concerns, or requests regarding this Email Privacy Policy, please contact us at fooocusai@f4services.live.
-
-Last updated: [5/9/2024]
+These Terms of Service ("Terms") govern your access to and use of [The Lazy Artist](https://thelazyartistai.com)
+(the "Site") and any related services provided by The Lazy Artist. By accessing or using the Site, you
+agree to these Terms and our Privacy Policy.
+1. ### Use of the Site
+   You must be at least 18 years old to access and use the Site. By accessing or using the Site, you
+   warrant that you are 18 years of age or older.
+2. ### User Accounts
+   ● You may be required to create an account and provide certain information about yourself
+   in order to use some of the features of the Site. You are responsible for maintaining the
+   confidentiality of your account password.
+   ● You agree to accept responsibility for all activities that occur under your account.
+3. ### User Content
+   ● You are solely responsible for any content that you create, transmit, or display while
+   using the Site ("User Content").
+   ● By creating User Content, you grant us a right to use, reproduce, modify, adapt, publish,
+   translate, distribute, and display such User Content on the Site.
+   ● You represent and warrant that your User Content does not violate these Terms or any
+   applicable laws.
+4. ### Intellectual Property
+   ● TheSite and its original content, features, and functionality are owned by The Lazy Artist and
+   are protected by international copyright, trademark, patent, trade secret, and other
+   intellectual property or proprietary rights laws.
+5. ### Termination
+   ● We may terminate or suspend your access to the Site immediately, without prior notice or
+   liability, for any reason whatsoever, including without limitation if you breach these
+   Terms.
+   ● Upon termination, your right to use the Site and all services will immediately cease.
+6. ### Limitation of Liability
+   ● In no event shall The Lazy Artist, nor its directors, employees, partners, agents, suppliers, or
+   affiliates, be liable for any indirect, incidental, special, consequential, or punitive
+   damages, including without limitation, loss of profits, data, use, goodwill, or other
+   intangible losses, resulting from (i) your access to or use of or inability to access or use
+   the Site; (ii) any conduct or content of any third party on the Site; (iii) any content
+   obtained from the Site; and (iv) unauthorized access, use, or alteration of your
+   transmissions or content, whether based on warranty, contract, tort (including
+   negligence), or any other legal theory, whether or not we have been informed of the
+   possibility of such damage, and even if a remedy set forth herein is found to have failed
+   of its essential purpose.
+7. ### Governing Law
+   ● These Terms shall be governed and construed per the laws of the state of Texas, without
+   regard to its conflict of law provisions.
+8. ### Changes
+   ● We reserve the right, at our sole discretion, to modify or replace these Terms at any time.
+   If a revision is material, we will provide at least 30 days notice prior to
+   any new terms taking effect. What constitutes a material change will be determined at our
+   sole discretion.
+9. ### Contact Us
+   If you have any questions about these Terms, please contact us at:
+   support@f4services.live or visit our [Discord](https://discord.gg/XpRMvAkyTv).

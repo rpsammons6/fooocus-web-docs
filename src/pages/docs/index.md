@@ -38,3 +38,31 @@ left corner of the page to access the sidebar.
 Key documentation, such as our TOS and Privacy Policy, can also be found in the documentation. Furthermore, information
 about what features you will get with your subscription can be found in the documentation. If there are any quetions
 you cannot find the answer to on the documentation, send us an email or join the Discord and ask us there.
+
+---
+
+## What is Ink?
+
+**Ink** is our way of making it easier for our consumers to track how their hard-earned money is being spent on our services.
+Ink is the currency which runs The Lazy Artist. 1 Ink is equivalent to one image using our **[Lightning Model](/docs/lightning)**, one of our fastest
+and most powerful models. As you request images from more complex and powerful models, the cost of the image will increase.
+Below, you will find a list of the models we offer and their respective costs:
+
+| **Model**       | Ink Cost |
+|-------------|----------|
+| **SCHNELL**     | 1        |
+| **DEV**         | 10       |
+| **PRO 1.1**     | 15       |
+| **RECRAFT**     | 15       |
+| **PRO**         | 20       |
+| **RECRAFT SVG** | 30       |
+
+Ink can be purchased through one of our subscriptions, which will allot you a certain number of ink per month. See
+our **[Subscription Plans](/docs/features)** for more information.
+
+However, if you are a free user, there are multiple ways you can earn ink. 10 ink is allotted to each free user each day to use,
+which can be stacked and saved for later use to generate images using higher quality models. You can also earn an addition
+10 ink by voting for us on **[Top.gg](https://top.gg/bot/1282040578120355871)**. Further ink will be distributed as prizes in
+**[Discord](https://discord.gg/XpRMvAkyTv) events**, the amount will be set on a event-by-event basis. You can also earn ink 
+by referring friends to The Lazy Artist.
+

@@ -18,6 +18,10 @@ export const SIDEBAR: Array<SidebarItem> = [
       },
       {
         title: 'Privacy Policy',
+        slug: '/docs/privacypolicy',
+      },
+      {
+        title: 'Terms of Service',
         slug: '/docs/terms',
       },
       {
